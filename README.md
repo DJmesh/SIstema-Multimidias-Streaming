@@ -6,8 +6,8 @@
 2. Navegue até o diretório raiz ./ do produto e execute `yarn install` ou `npm install` para instalar nossas dependências locais.
 
 ## Comandos essências para uso
-1. No CMD dentro do diretório para baixar as depedências use o comando npm install
-2. Depois de baixar as bibliotcas use o comando npm start
+1. No CMD dentro do diretório para baixar as depedências use o comando `npm install`
+2. Depois de baixar as bibliotcas use o comando `npm start`
 3. Feito isso irá rodar o projeto localmente
 
 ### Dirétorio
