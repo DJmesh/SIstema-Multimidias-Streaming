@@ -1,10 +1,14 @@
-# [Material Kit 2 React](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-react&text=Check%20Material%20kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-kit-react)
+# [Sistemas Multimidas Site Streming]
 
 ## Terminal Comandos
 
 1. Baixe e instale a versão LTS do NodeJs na [página oficial do NodeJs](https://nodejs.org/en/download/).
 2. Navegue até o diretório raiz ./ do produto e execute `yarn install` ou `npm install` para instalar nossas dependências locais.
 
+## Comandos essências para uso
+1. No CMD dentro do diretório para baixar as depedências use o comando npm install
+2. Depois de baixar as bibliotcas use o comando npm start
+3. Feito isso irá rodar o projeto localmente
 
 ### Dirétorio
 Dentro do diretório encontrará os seguintes diretórios e arquivos:
